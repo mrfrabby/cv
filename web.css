@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-color: antiquewhite;
+    font-family: 'Roboto';
+}
+
+.con {
+    max-width: 1000px;
+    background-color: rgb(176, 206, 146);
+    margin: 0 auto;
+
+}
+
+img {
+    height: 120px;
+    width: 100px;
+    border: 5px solid rgb(158, 86, 86);
+    border-radius: 50%;
+    padding: 10px;
+    float: left;
+}
+
+.bio {
+    float: left;
+    padding: 20px;
+
+}
+
+h1,h2,h3,h4,h5 {
+    color: rgb(67, 131, 131);
+}
+
+.con2 {
+    float: right;
+    padding: 20px;
+}
+
+.con2 a{
+    text-decoration: none;
+    color: rgb(70, 129, 110);
+    font-weight: bold;
+
+}
+
+.con2 a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
+.clear {
+    clear:both;
+
+}
+
+hr {
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+
+.left {
+    width: 35%;
+    float: left;
+}
+
+.right {
+    width: 65%;
+    float: left;
+}
+
+.hr2 {
+    
+    margin: 20px auto;
+    border-bottom: none;
+    border: 1px solid black;
+    width: 100%;
+
+}
+
+.clear2 {
+    clear:both;
+}
+
+
+
+.left7{
+    float: left;
+    width: 40%;
+}
+
+.right7{
+    float: right;
+    width: 60%;
+}
+
+
+.footer1{
+    background-color: black;
+    text-align: center;
+    padding: 25px;
+}
+
+.footer1 a{
+    color: beige;
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+.footer1 p{
+    color: blanchedalmond;
+}
+
+
+
